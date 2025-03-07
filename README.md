@@ -15,6 +15,7 @@ This knowledge base contains essential information about Lovable AI app builder,
 7. [Tech Stack](tech-stack.md) - Detailed overview of Lovable's technology stack
 8. [Prompt Patterns](prompt-patterns.md) - Ready-to-use prompt templates for common tasks
 9. [Free Tier Optimization](free-tier-optimization.md) - Maximize value from limited free messages
+10. [Azure Chatbot Integration](azure-chatbot-integration.md) - Build a chat application with Azure OpenAI
 
 ## Key Takeaways
 
