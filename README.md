@@ -2,6 +2,8 @@
 
 This knowledge base contains essential information about Lovable AI app builder, its capabilities, limitations, and best practices. Use this resource to extract the maximum value from Lovable when building your applications.
 
+> **Official Documentation**: [https://docs.lovable.dev/introduction](https://docs.lovable.dev/introduction)
+
 ## Contents
 
 1. [Introduction](01-introduction.md) - Overview of Lovable and its capabilities

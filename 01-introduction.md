@@ -2,6 +2,8 @@
 
 Build real web apps fast using natural language with Lovable
 
+> **Note**: This is a local knowledge base created based on research of the Lovable AI app builder. For the official documentation, visit [https://docs.lovable.dev/introduction](https://docs.lovable.dev/introduction)
+
 ## Product Capabilities
 
 **Lovable** currently excels at building front-end applications. However, pairing Lovable with other tools will allow you to build full-stack web apps.
